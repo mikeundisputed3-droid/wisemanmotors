@@ -8,7 +8,7 @@ const Footer = () => {
             <div class="col-md-4">
                 <h2 class="text-center text-white">About Us</h2>
                 <p class="text-white">We have a variety of items that we are selling.our main companny is located at Naivasha,our items are affordable</p>
-                <p>For those that are not able to get to our show rooms, stress yourself no more,because after purchasing the car we will deliver it to you wherever you wwant it to be delivered</p>
+                <p>For those that are not able to get to our show rooms, stress yourself no more,because after purchasing your car through our website we will deliver it to you wherever you wwant it to be delivered</p>
                    
             </div>
             {/* <!-- child 2 --> */}
