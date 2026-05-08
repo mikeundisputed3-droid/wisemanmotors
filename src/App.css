@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  
 }
 
 .App-logo {
@@ -21,7 +20,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size:calc(10px + 2vmin);
+  font-size: calc(10px + 2vmin);
   color: white;
 }
 
@@ -36,4 +35,25 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* Luxury input styling */
+.luxury-input {
+  border: 2px solid #ccc;
+  padding: 10px;
+  outline: none;
+  transition: all 0.3s ease-in-out;
+  border-radius: 6px;
+}
+
+/* Placeholder styling */
+.luxury-input::placeholder {
+  color: gold !important;
+  opacity: 0.8;
+}
+
+/* ✨ Glowing gold border on focus */
+.luxury-input:focus {
+  border-color: gold;
+  box-shadow: 0 0 10px gold, 0 0 20px rgba(255, 215, 0, 0.6);
 }

@@ -47,24 +47,24 @@ const Carousel = () => {
               {/* Slide 1 */}
               <div className="carousel-item active">
                 <img
-                  src="images/Audi rs7.jpeg"
-                  alt="Audi"
+                  src="images/welcome.jpeg"
+                  alt="welcome"
                   className="d-block w-100 carousel-image"
                 />
 
                 <div className="carousel-overlay"></div>
 
                 <div className="carousel-caption custom-caption">
-                  <h1>Audi RS7</h1>
-                  <p>Luxury and performance combined</p>
+                  <h1>Welcome to wiseman motors</h1>
+                  <p>Here luxury meets trust</p>
                 </div>
               </div>
 
               {/* Slide 2 */}
               <div className="carousel-item">
                 <img
-                  src="images/download.jpeg"
-                  alt="Sports"
+                  src="images/BMW.jpeg"
+                  alt="BMW"
                   className="d-block w-100 carousel-image"
                 />
 
@@ -95,15 +95,15 @@ const Carousel = () => {
               {/* Slide 4 */}
               <div className="carousel-item">
                 <img
-                  src="images/rolls royce.jpeg"
-                  alt="Rolls Royce"
+                  src="images/Audi rs7.jpeg"
+                  alt="Audi rs7"
                   className="d-block w-100 carousel-image"
                 />
 
                 <div className="carousel-overlay"></div>
 
                 <div className="carousel-caption custom-caption">
-                  <h1>Rolls Royce</h1>
+                  <h1>Audi rs7</h1>
                   <p>Luxury redefined</p>
                 </div>
               </div>
